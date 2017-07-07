@@ -34,7 +34,7 @@ $(function(){
     })
 
     //Show logos one at a time when scrolling down
-    if (url == 'file:///Users/nestormendoza/Desktop/FEWD/Final%20Project/index.html'
+    if (url == 'https://tilingo.github.io/FEWD14_Final_Project/index.html'
      && wScroll > $('.skills').offset().top - 350) {
 
       $('.skills figure').each(function(i){
